@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Tee! 👋 I'm an undergraduate student at Oregon State University, pursuing a post-baccalaureate degree in Computer Science.
+### :computer: I am interested in building embedded systems, and have some hands on experience with Arduino, Raspberry Pi, and the NVidia Jetson.
+### :robot: I would love the opportunity to advance my education towards Artificial Intelligence, specifically Computer Vision and Human Computer/Robot Interaction!
+### :sunrise_over_mountains: In my free time, I enjoy rock climbing, particularly bouldering! Let me know if you're down for a sesh!
+###
+### :email: nguyeti9@oregonstate.edu
+
 
 <!--
 **tnnguyen13/tnnguyen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
